@@ -1,4 +1,3 @@
-Sure! Here’s an updated version of the README.md with a section about contributing and some emojis to add a bit of flair:
 
 ---
 
