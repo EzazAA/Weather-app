@@ -1,5 +1,8 @@
 import requests
 import coloroma
+
+init(autoreset=True)
+
 def get_weather(api_key, city):
     base_url = "http://api.openweathermap.org/data/2.5/weather"
     params = {
@@ -28,6 +31,6 @@ def main():
     city = input("Enter city name: ")
     weather_data = get_weather(api_key, city)
     display_weather(weather_data)
-
+print("Bye")
 if __name__ == "__main__":
     main()
