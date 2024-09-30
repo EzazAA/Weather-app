@@ -1,5 +1,5 @@
 import requests
-
+import coloroma
 def get_weather(api_key, city):
     base_url = "http://api.openweathermap.org/data/2.5/weather"
     params = {
