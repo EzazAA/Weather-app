@@ -1,5 +1,6 @@
 
 ---
+![Command Prompt - powershell 01-10-2024 3 20 03 PM](https://github.com/user-attachments/assets/c3dd8f6c-3f61-49a6-b629-fbe4281c28e4)
 
 # Weather App ☀️🌧️
 
